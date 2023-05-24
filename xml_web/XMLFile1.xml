@@ -1,0 +1,54 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+
+<arvutit>
+
+	<arvuti>
+		<nimetus>Lauaarvuti</nimetus>
+		<hind>500 euro</hind>
+		<firma>HP</firma>
+		<lisad>
+			<monitor>
+				<nimetus>Samsung Gaming Full HD</nimetus>
+				<hind> 199 euro</hind>
+			</monitor>
+			<hiir>
+				<firma>HP Uiosmuph Bluetooth Mouse</firma>
+			</hiir>
+		</lisad>
+
+	</arvuti>
+
+	<arvuti>
+		<nimetus>Tahliarvuti</nimetus>
+		<hind>300 euro</hind>
+		<firma>Samsung</firma>
+		<lisad>
+			<monitor>
+				<nimetus>Samsung Odyssey Neo G7</nimetus>
+				<hind> 899 euro</hind>
+			</monitor>
+			<hiir>
+				<firma>Rii Wireless Mouse</firma>
+			</hiir>
+		</lisad>
+
+	</arvuti>
+
+	<arvuti>
+		<nimetus>Nutiarvuti</nimetus>
+		<hind>190 euro</hind>
+		<firma>HP</firma>
+		<lisad>
+			<monitor>
+				<nimetus>Dell S2723HC Full HD</nimetus>
+				<hind> 249 euro</hind>
+			</monitor>
+			<hiir>
+				<firma>Defender Bulletstorm hiir</firma>
+			</hiir>
+		</lisad>
+
+	</arvuti>
+
+</arvutit>
+
