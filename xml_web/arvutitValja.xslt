@@ -72,6 +72,12 @@
 				<ul>
 					<xsl:for-each select="arvutit/arvuti">
 						<li>
+						   <xsl:attribute name="style">
+							<xsl:if test="nimetus = 'Lauaarvuti'">
+								font-family: Yu Gothic;
+								background-color: DarkGoldenRod ;
+						   </xsl:if>
+						   </xsl:attribute>
 							<strong>
 								<xsl:value-of select="nimetus"/>
 							</strong>,
